@@ -21,3 +21,8 @@ master 3333333
 select * from tables
 delet from book;
 
+
+
+
+
+update by szl
