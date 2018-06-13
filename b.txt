@@ -26,3 +26,10 @@ delet from book;
 
 
 update by szl
+
+
+
+
+
+
+
