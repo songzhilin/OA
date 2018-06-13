@@ -1,6 +1,7 @@
 1111111111111111111
 222222222222222
 
+
 select * from tables;
 
 
@@ -16,3 +17,7 @@ select * from tables;
 
 
 master 3333333
+
+select * from tables
+delet from book;
+
